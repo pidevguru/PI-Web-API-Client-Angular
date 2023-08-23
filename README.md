@@ -54,7 +54,7 @@ export class AppModule { }
 
 ## Documentation
 
-All PI Web API server methods are mapped on this client. Please refer to [PI Web API help page](/piwebapi/help). 
+All PI Web API server methods are mapped on this client. Please refer to [PI Web API help page](https://docs.aveva.com/bundle/pi-web-api-reference/page/help). 
 
 ## CORS
 
